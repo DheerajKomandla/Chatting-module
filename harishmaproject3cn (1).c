@@ -1,8 +1,4 @@
-/*
-Harishma Nallala
-student id :11443968
-Computer Networks
-*/
+
 #include<stdio.h>
 #include<string.h>
 #include <pthread.h>
